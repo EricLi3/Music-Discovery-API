@@ -1,0 +1,9 @@
+dev\eric\songs\ReviewService.class
+dev\eric\songs\Song.class
+dev\eric\songs\SongsApplication.class
+dev\eric\songs\SongService.class
+dev\eric\songs\ReviewRepository.class
+dev\eric\songs\SongRepository.class
+dev\eric\songs\SongController.class
+dev\eric\songs\ReviewController.class
+dev\eric\songs\Review.class
